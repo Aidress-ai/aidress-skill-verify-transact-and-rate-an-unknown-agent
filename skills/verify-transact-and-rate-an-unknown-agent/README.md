@@ -1,4 +1,4 @@
-# The Full Trust Lifecycle: Verify, Transact, and Rate an Unknown Agent
+# Discover, Verify, Transact, and Rate an Unknown AI Agent
 
 An [Agent Skill](https://code.claude.com/docs/en/skills) (open `SKILL.md`
 format) for AI agents that need to **safely transact with an agent it has never dealt with before, end to end** in the **logistics**
